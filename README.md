@@ -3,7 +3,7 @@
 这是一个我早期做过的一个全栈项目，前端虽然引用了jquery、bootstrap等api，但除了一些图标之类的用了bootstrap，其他都为原生代码，前后端大部分都有注释，写的很清楚，对于已经入门了的前端开发者来说，完全可以看懂。
 # 使用方法
 1.安装npm  
-2.在你准备好的文件夹cmd+r打开控制台  
+2.在你准备好的文件夹打开cmd  
 3.输入npm i或者npm install来安装所有依赖  
 4.由于我用了mongoose，所以需要你会用mongooVUE并且创建一个名为todo的数据库（Database），然后运行mongoodb  
 5.找到bin下的www，右键run，如果提示“Server Started”“与mongodb连接成功”就算成功了  
