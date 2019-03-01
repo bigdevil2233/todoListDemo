@@ -6,7 +6,7 @@
 2.在你准备好的文件夹cmd+r打开控制台  
 3.输入npm i或者npm install来安装所有依赖  
 4.由于我用了mongoose，所以需要你会用mongooVUE并且创建一个名为todo的数据库（Database），然后运行mongoodb  
-5.找到bin下的www.js，右键run，如果提示“Server Started”“与mongodb连接成功”就算成功了  
+5.找到bin下的www，右键run，如果提示“Server Started”“与mongodb连接成功”就算成功了  
 6.浏览器打开localhost:3000就能看效果了  
 # 目的
 1.为前端入门者提供参考  
