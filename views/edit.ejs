@@ -1,0 +1,14 @@
+<%-include('./header_top_login.ejs')-%>
+<div class="box">
+    <form class="form-inline" method="post" action="/edit_item/<%=itemId%>">
+        <div class="form-group">
+            <label class="sr-only" for="itemContent">修改任务</label>
+            <div class="input-group">
+                <div class="input-group-addon">修改任务</div>
+                <input type="text" class="form-control" id="itemContent" name="itemContent" value="<%=itemContent%>">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">提交</button>
+    </form>
+</div>
+<%-include('./header_footer.ejs')-%>

@@ -1,0 +1,51 @@
+body{
+    background-color: #333;
+}
+.box{
+    margin:10px auto;
+    width:700px;
+    background-color: #fff;
+    padding: 10px;
+
+}
+.box-header{
+    margin-top:10%;
+}
+.join{
+    position: relative;
+    left:10px;
+}
+.boxLogin{
+    width:300px;
+    margin-left: 50px;
+}
+.loginNav{
+    float:right;
+    list-style: none;
+}
+.nav{
+    float:right;
+}
+.nav li{
+    float:left;
+    margin-right: 10px ;
+    list-style-type:none
+}
+.avatar img{
+    width:36px;
+    height:36px;
+    border-radius:50%;
+}
+.nav .text{
+    margin-top: 12px;
+}
+
+.footer{
+    margin:10px auto;
+    width:700px;
+    background-color: #fff;
+    padding: 10px;
+}
+.workList{
+    margin-bottom:20px;
+}
